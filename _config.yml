@@ -3,3 +3,5 @@ theme: jekyll-theme-midnight
 title: [Welcome !!!]
 description: [website in progress]
 show_downloads: false
+github:
+  is_project_page: false
